@@ -2,7 +2,7 @@
 🌟 Objective:
 Conducted comprehensive analysis of 10,000-participant survey to drive CodeX's marketing strategy, boost brand visibility, and inform product innovation.
 
-Methodology:
+🌟 Methodology:
 1. Leveraged MySQL and Excel for data querying and manipulation
 
 🌟 Key Insights:
